@@ -4,4 +4,4 @@ Goto ```test1/``` and run:
 ```
 mvn package embedded-glassfish:run
 ```
-Open browser in '''http://localhost:8080/test1/'''
+Open browser in ```http://localhost:8080/test1/```
